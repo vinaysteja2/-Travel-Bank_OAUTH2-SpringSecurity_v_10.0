@@ -2,7 +2,7 @@
 
 > ✅ **Secure Microservices Gateway using OAuth2, OpenID Connect & Spring Security with Keycloak**
 
-This version of the **Travel Bank Microservices Suite** focuses on implementing **centralized authentication and authorization** using **OAuth 2.0 Authorization Code Grant Flow** via **Keycloak** and **Spring Security** at the **API Gateway** level.
+This version of the **Travel Bank Microservices Suite** focuses on implementing **centralized authentication and authorization** using **OAuth 2.0 Authorization Code Grant Flow** , **OAuth 2.0 Client Grant Flow** via **Keycloak** and **Spring Security** at the **API Gateway** level.
 
 ---
 
